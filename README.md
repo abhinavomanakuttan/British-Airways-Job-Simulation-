@@ -1,4 +1,4 @@
-﻿# British-Airways-Job-Simulation-
+
 # British Airways Job Simulation
 
 ## 📌 Overview
@@ -111,4 +111,5 @@ Some visualizations generated during the analysis include:
 - **Sentiment Modeling**: Build machine learning models to predict customer satisfaction.
 - **Dynamic Scraping**: Use Selenium or Playwright to scrape dynamically loaded content.
 - **Dashboarding**: Develop interactive dashboards using Tableau, Power BI, or Plotly Dash for management reporting.
+
 
